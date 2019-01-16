@@ -257,7 +257,7 @@
                 <artifactId>cxf-parent</artifactId>
                 <version>${version.cxf}</version>
                 <type>pom</type>
-                <scope>provided</scope>
+                <scope>import</scope>
             </dependency>
             <dependency>
                 <groupId>io.hawt</groupId>
